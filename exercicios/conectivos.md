@@ -1,13 +1,13 @@
 # Conectivos Lógicos
 
-Os conectivos Lógicos são utilizados para forma proposições compostas a partir de proposições simples.
+Os conectivos Lógicos são utilizados para formar proposições compostas a partir de proposições simples.
 
 ## Conjunção (∧)
 
 Representada pela expressão "e". 
 Uma conjunção será verdadeira somente quando as duas proposições forem verdadeiras.
 
-##Disjunção (V)
+## Disjunção (V)
 
 Representada pela expressão 'ou'.
 
